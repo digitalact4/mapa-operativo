@@ -1,0 +1,71 @@
+# ================================================
+# URLs para pegar en cada pestaña de Looker Studio
+# Reemplaza TU_URL_GOOGLE_SITES con tu URL real
+# ================================================
+
+Pestaña GENERAL (todas las alcaldías):
+  TU_URL_GOOGLE_SITES
+
+Pestaña Alvaro Obregon:
+  TU_URL_GOOGLE_SITES?alcaldia=ALVARO+OBREGON
+  GeoJSON: secciones_ALVARO_OBREGON.geojson
+
+Pestaña Azcapotzalco:
+  TU_URL_GOOGLE_SITES?alcaldia=AZCAPOTZALCO
+  GeoJSON: secciones_AZCAPOTZALCO.geojson
+
+Pestaña Benito Juarez:
+  TU_URL_GOOGLE_SITES?alcaldia=BENITO+JUAREZ
+  GeoJSON: secciones_BENITO_JUAREZ.geojson
+
+Pestaña Coyoacan:
+  TU_URL_GOOGLE_SITES?alcaldia=COYOACAN
+  GeoJSON: secciones_COYOACAN.geojson
+
+Pestaña Cuajimalpa:
+  TU_URL_GOOGLE_SITES?alcaldia=CUAJIMALPA
+  GeoJSON: secciones_CUAJIMALPA.geojson
+
+Pestaña Cuauhtemoc:
+  TU_URL_GOOGLE_SITES?alcaldia=CUAUHTEMOC
+  GeoJSON: secciones_CUAUHTEMOC.geojson
+
+Pestaña Gustavo A Madero:
+  TU_URL_GOOGLE_SITES?alcaldia=GUSTAVO+A+MADERO
+  GeoJSON: secciones_GUSTAVO_A_MADERO.geojson
+
+Pestaña Iztacalco:
+  TU_URL_GOOGLE_SITES?alcaldia=IZTACALCO
+  GeoJSON: secciones_IZTACALCO.geojson
+
+Pestaña Iztapalapa:
+  TU_URL_GOOGLE_SITES?alcaldia=IZTAPALAPA
+  GeoJSON: secciones_IZTAPALAPA.geojson
+
+Pestaña La Magdalena Contreras:
+  TU_URL_GOOGLE_SITES?alcaldia=LA+MAGDALENA+CONTRERAS
+  GeoJSON: secciones_LA_MAGDALENA_CONTRERAS.geojson
+
+Pestaña Miguel Hidalgo:
+  TU_URL_GOOGLE_SITES?alcaldia=MIGUEL+HIDALGO
+  GeoJSON: secciones_MIGUEL_HIDALGO.geojson
+
+Pestaña Milpa Alta:
+  TU_URL_GOOGLE_SITES?alcaldia=MILPA+ALTA
+  GeoJSON: secciones_MILPA_ALTA.geojson
+
+Pestaña Tlahuac:
+  TU_URL_GOOGLE_SITES?alcaldia=TLAHUAC
+  GeoJSON: secciones_TLAHUAC.geojson
+
+Pestaña Tlalpan:
+  TU_URL_GOOGLE_SITES?alcaldia=TLALPAN
+  GeoJSON: secciones_TLALPAN.geojson
+
+Pestaña Venustiano Carranza:
+  TU_URL_GOOGLE_SITES?alcaldia=VENUSTIANO+CARRANZA
+  GeoJSON: secciones_VENUSTIANO_CARRANZA.geojson
+
+Pestaña Xochimilco:
+  TU_URL_GOOGLE_SITES?alcaldia=XOCHIMILCO
+  GeoJSON: secciones_XOCHIMILCO.geojson
